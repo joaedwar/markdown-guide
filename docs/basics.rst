@@ -61,7 +61,7 @@ Markdown::
     
 Output:
 
-.. code-block::
+.. code-block:: html
 
     <blockquote>
         <h2>Blockquoted header</h2>
