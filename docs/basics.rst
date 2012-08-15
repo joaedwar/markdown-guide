@@ -31,8 +31,7 @@ blank lines. Normal paragraphs should not be indented with spaces or tabs::
 
     This is a paragraph. It has two sentences.
 
-    This is another paragraph. It also has 
-    two sentences.
+    This is another paragraph. It also has two sentences.
 
 This will render out into the following HTML tags:
 
