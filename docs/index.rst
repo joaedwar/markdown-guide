@@ -25,7 +25,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
    
-   headers
+   basics
 
 
 Indices and tables
