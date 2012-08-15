@@ -44,3 +44,30 @@ Output:
     <p>This is a paragraph. It has two sentences.</p>
     
     <p>This is another paragraph. It also has two sentences.</p>    
+    
+Blockquotes
+============
+
+To enclose a segment of text in blockquotes, one must prefix each written line
+with a less-than sign.
+
+Markdown::
+
+    > ## Blockquoted header
+    >
+    > This is blockquoted text.
+    >
+    > This is a second paragraph within the blockquoted text.
+    
+Output:
+
+.. code-block::
+
+    <blockquote>
+        <h2>Blockquoted header</h2>
+    
+        <p>This is blockquoted text.</p>
+
+        <p>This is a second paragraph within the blockquoted text.</p>
+
+    </blockquote>
