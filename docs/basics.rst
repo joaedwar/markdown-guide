@@ -9,13 +9,15 @@ Headers
 
 HTML headings are produced by placing a number of hashes before the header
 text corresponding to the level of heading desired (HTML offers six levels of
-headings), like so::
+headings).
+
+Markdown::
 
     # First-level heading
 
     #### Fourth-level heading
 
-This will render out into the following HTML tags:
+Output:
 
 .. code-block:: html
 
@@ -27,13 +29,15 @@ Paragraphs
 ===========
 
 A paragraph is one or more consecutive lines of text separated by one or more
-blank lines. Normal paragraphs should not be indented with spaces or tabs::
+blank lines. Normal paragraphs should not be indented with spaces or tabs.
+
+Markdown::
 
     This is a paragraph. It has two sentences.
 
     This is another paragraph. It also has two sentences.
 
-This will render out into the following HTML tags:
+Output:
 
 .. code-block:: html
 
