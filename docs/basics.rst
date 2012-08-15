@@ -45,6 +45,26 @@ Output:
     
     <p>This is another paragraph. It also has two sentences.</p>    
     
+Links
+============
+
+TODO
+
+Line Return
+============
+
+TODO
+
+Italics
+========
+
+TODO
+
+Strong
+========
+
+TODO
+    
 Blockquotes
 ============
 
@@ -71,3 +91,4 @@ Output:
         <p>This is a second paragraph within the blockquoted text.</p>
 
     </blockquote>
+
