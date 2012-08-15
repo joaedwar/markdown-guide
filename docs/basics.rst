@@ -45,26 +45,6 @@ Output:
     
     <p>This is another paragraph. It also has two sentences.</p>    
     
-Links
-============
-
-TODO
-
-Line Return
-============
-
-TODO
-
-Italics
-========
-
-TODO
-
-Strong
-========
-
-TODO
-    
 Blockquotes
 ============
 
@@ -92,3 +72,38 @@ Output:
 
     </blockquote>
 
+
+Links
+============
+
+TODO
+
+Line Return
+============
+
+TODO
+
+Italics
+========
+
+TODO
+
+Strong
+========
+
+TODO
+
+Lists
+========
+
+TODO
+
+Code
+=====
+
+TODO
+
+Horizontal rules
+=================
+
+TODO
