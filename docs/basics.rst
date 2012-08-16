@@ -95,7 +95,8 @@ Output:
     
 .. code-block:: html
 
-    <p>This is an <a href="http://example.com/" title="With a Title">example link</a>.</p>
+    <p>This is an <a href="http://example.com/" 
+        title="With a Title">example link</a>.</p>
     
 Paragraphs
 ===========
