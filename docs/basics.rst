@@ -64,7 +64,7 @@ Markdown::
 
 Output:
 
-.. code-block::
+.. code-block:: html
 
     Forcing a line-break<br>
     Next line in the list
@@ -78,7 +78,7 @@ Markdown::
 
     This is an [example link](http://example.com/).
 
-Output
+Output:
 
 .. code-block:: html
 
@@ -89,6 +89,8 @@ Optionally, you may include a title attribute in the parentheses:
 Markdown::
 
     This is an [example link](http://example.com/ "With a Title").
+
+Output:
     
 .. code-block:: html
 
