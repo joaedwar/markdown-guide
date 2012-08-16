@@ -84,7 +84,8 @@ Output:
 
     <p>This is an <a href="http://example.com/">example link</a>.</p>
     
-Optionally, you may include a title attribute in the parentheses:
+Links: Inline with title
+========================
 
 Markdown::
 
