@@ -68,6 +68,31 @@ Output:
 
     Forcing a line-break<br>
     Next line in the list
+
+Links: Inline
+===============
+
+Inline-style links use parentheses immediately after the link text.
+
+Markdown::
+
+    This is an [example link](http://example.com/).
+
+Output
+
+.. code-block:: html
+
+    <p>This is an <a href="http://example.com/">example link</a>.</p>
+    
+Optionally, you may include a title attribute in the parentheses:
+
+Markdown::
+
+    This is an [example link](http://example.com/ "With a Title").
+    
+.. code-block:: html
+
+    <p>This is an <a href="http://example.com/" title="With a Title">example link</a>.</p>
     
 Paragraphs
 ===========
@@ -90,8 +115,8 @@ Output:
     <p>This is another paragraph. It also has two sentences.</p>
 
 
-Links
-============
+Links: Reference
+================
 
 TODO
 
