@@ -97,6 +97,23 @@ Output:
 
     <p>This is an <a href="http://example.com/" 
         title="With a Title">example link</a>.</p>
+
+Links: Reference
+================
+
+Reference-style links allow you to refer to your links by names, which you define elsewhere.
+
+Markdown::
+
+    This is a guide on Markdown [Markdown][1].
+
+    [1]: http://en.wikipedia.org/wiki/Markdown        "Markdown"
+    
+Output:
+
+.. code-block:: html
+
+    <p>This is a guide on <a href="http://en.wikipedia.org/wiki/Markdown">Markdown</a>.</p>
     
 Paragraphs
 ===========
@@ -119,10 +136,7 @@ Output:
     <p>This is another paragraph. It also has two sentences.</p>
 
 
-Links: Reference
-================
 
-TODO
 
 
 
