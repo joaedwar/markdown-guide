@@ -53,13 +53,13 @@ To boldly emphasize text, wrap it with either double asterisks or double undersc
 
 Markdown::
 
-    This is very heaviliy **emphasized** __text__.
+    This is very heavily **emphasized** __text__.
 
 Output:
 
 .. code-block:: html
 
-    <p>This is <strong>emphasized</strong> <strong>text</strong>.</p>
+    <p>This is very heavily <strong>emphasized</strong> <strong>text</strong>.</p>
 
     
 Headers
