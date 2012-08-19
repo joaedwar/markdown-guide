@@ -45,6 +45,22 @@ Output:
 .. code-block:: html
 
     <p>This is <em>emphasized</em> <em>text</em>.</p>
+
+Emphasis: Strong
+================
+
+To boldly emphasize text, wrap it with either double asterisks or double underscores.
+
+Markdown::
+
+    This is very heaviliy **emphasized** __text__.
+
+Output:
+
+.. code-block:: html
+
+    <p>This is <strong>emphasized</strong> <strong>text</strong>.</p>
+
     
 Headers
 ========
@@ -151,11 +167,6 @@ Output:
     <p>This is another paragraph. It also has two sentences.</p>
 
 ----
-
-Strong
-========
-
-TODO
 
 Lists
 ========
