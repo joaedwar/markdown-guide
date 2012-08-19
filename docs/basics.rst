@@ -31,6 +31,21 @@ Output:
 
     </blockquote>
     
+Emphasis: Italics
+==================
+
+To emphasize text wrap it with either a asterisk or underscore.
+
+Markdown::
+
+    This is *emphasized* _text_.
+
+Output:
+
+.. code-block:: html
+
+    <p>This is <em>emphasized</em> <em>text</em>.</p>
+    
 Headers
 ========
 
@@ -136,14 +151,6 @@ Output:
     <p>This is another paragraph. It also has two sentences.</p>
 
 
-
-
-
-
-Italics
-========
-
-TODO
 
 Strong
 ========
