@@ -150,7 +150,7 @@ Output:
 
     <p>This is another paragraph. It also has two sentences.</p>
 
-
+----
 
 Strong
 ========
