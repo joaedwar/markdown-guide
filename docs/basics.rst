@@ -31,6 +31,22 @@ Output:
 
     </blockquote>
     
+Code: Inline
+===============
+
+Inline code descriptions can be done via the use of the backtick quotes. Any ampersands and angle brackets will automatically be translated into HTML entities.
+
+Markdown::
+
+    Markdown is a `<em>text-to-html</em>` conversion tool for writers.
+
+Output:
+
+.. code-block:: html
+
+    <p>Markdown is a `&lt;em&gt;text-to-html&lt;/em&gt;` conversion tool for writers.</p>
+
+    
 Emphasis: Italics
 ==================
 
@@ -173,10 +189,7 @@ Lists
 
 TODO
 
-Code
-=====
 
-TODO
 
 Horizontal rules
 =================
