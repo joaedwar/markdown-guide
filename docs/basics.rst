@@ -30,7 +30,24 @@ Output:
         <p>This is a second paragraph within the blockquoted text.</p>
 
     </blockquote>
+
+Code: Block
+=============
+
+To specify an entire block of pre-formatted code, indent every line of the block by 1 tab or 4 spaces. Ampersands and angle brackets will automatically be translated into HTML entities.
+
+Markdown::
+
+    If you want to mark something as code, indent it by 4 spaces.
+
+        <p>This has been indented 4 spaces.</p>
+
+.. code-block:: html
+
+    <p>If you want to mark something as code, indent it by 4 spaces.</p>
     
+        &lt;p&gt;This has been indented 4 spaces.&lt;/p&gt;
+
 Code: Inline
 ===============
 
