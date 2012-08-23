@@ -179,6 +179,28 @@ Output:
 
     <p>This is a guide on <a href="http://en.wikipedia.org/wiki/Markdown">Markdown</a>.</p>
     
+Lists: Simple
+========
+
+Creating simple links is done by using plus, hyphens or asterisks as list markers. These list markers are interchangeable.
+
+Markdown::
+
+    + One
+    - Two
+    * Three
+    
+Output:
+
+.. code-block:: html
+    
+    <ul>
+        <li>One</li>
+        <li>Two</li>
+        <li>Three</li>
+    </ul>
+
+    
 Paragraphs
 ===========
 
@@ -201,10 +223,6 @@ Output:
 
 ----
 
-Lists
-========
-
-TODO
 
 
 
