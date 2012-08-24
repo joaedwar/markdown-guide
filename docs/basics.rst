@@ -180,7 +180,7 @@ Output:
     <p>This is a guide on <a href="http://en.wikipedia.org/wiki/Markdown">Markdown</a>.</p>
     
 Lists: Simple
-========
+=============
 
 Creating simple links is done by using plus, hyphens or asterisks as list markers. These list markers are interchangeable.
 
@@ -199,8 +199,36 @@ Output:
         <li>Two</li>
         <li>Three</li>
     </ul>
-
     
+Lists: Nested
+=============
+
+Nest a list requires you to indent by **exactly** four spaces.
+
+Markdown::
+
+    + One
+    + Two
+    + Three
+        - Nested One
+        - Nested Two
+
+Output:
+
+.. code-block:: html
+
+    <ul>
+        <li>One</li>
+        <li>Two</li>
+        <li>Three
+            <ul>
+                <li>Nested One</li>
+                <li>Nested Two</li>
+            </ul>
+        </li>
+    </ul>
+
+
 Paragraphs
 ===========
 
