@@ -116,6 +116,21 @@ Output:
 
     <h4>Fourth-level heading</h4>
 
+Images: Inline
+===============
+
+Image syntax is very similar to Link syntax, but prefixed with an exclamation point.
+
+Markdown::
+
+    ![alt text](http://path/to/img.jpg "Title")
+
+Output:
+
+.. code-block:: 
+
+    <img src="http://path/to/img.jpg" alt="alt text" title="Title" />
+
 Line Return
 ============
 
@@ -252,9 +267,12 @@ Output:
 ----
 
 
-
-
 Horizontal rules
+=================
+
+TODO
+
+Images: Reference
 =================
 
 TODO
