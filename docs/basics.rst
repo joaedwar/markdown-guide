@@ -127,7 +127,7 @@ Markdown::
 
 Output:
 
-.. code-block:: 
+.. code-block:: html
 
     <img src="http://path/to/img.jpg" alt="alt text" title="Title" />
 
