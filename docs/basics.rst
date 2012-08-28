@@ -116,6 +116,38 @@ Output:
 
     <h4>Fourth-level heading</h4>
 
+
+Horizontal rules
+=================
+
+You can create a horizontal rule (``<hr />``) by placing 3 or more phens, asterisks, or underscores on a single line. You can also place spaces between them.
+
+Markdown::
+
+    * * *
+
+    ***
+
+    *****
+
+    - - -
+
+    ---------------------------------------
+
+Output:
+
+.. code-block:: html
+
+    <hr />
+
+    <hr />
+
+    <hr />
+
+    <hr />
+
+    <hr />
+
 Images: Inline
 ===============
 
@@ -266,11 +298,6 @@ Output:
 
 ----
 
-
-Horizontal rules
-=================
-
-TODO
 
 Images: Reference
 =================
