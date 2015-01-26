@@ -8,7 +8,7 @@ Blockquotes
 ============
 
 To enclose a segment of text in blockquotes, one must prefix each written line
-with a less-than sign.
+with a greater-than sign.
 
 Markdown::
 
