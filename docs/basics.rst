@@ -229,7 +229,7 @@ Output:
 Lists: Simple
 =============
 
-Creating simple links is done by using plus, hyphens or asterisks as list markers. These list markers are interchangeable.
+Creating simple lists is done by using plus, hyphens or asterisks as list markers. These list markers are interchangeable.
 
 Markdown::
 
