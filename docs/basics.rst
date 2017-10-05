@@ -120,7 +120,7 @@ Output:
 Horizontal rules
 =================
 
-You can create a horizontal rule (``<hr />``) by placing 3 or more phens, asterisks, or underscores on a single line. You can also place spaces between them.
+You can create a horizontal rule (``<hr />``) by placing 3 or more hyphens, asterisks, or underscores on a single line by themselves. You can also place spaces between them.
 
 Markdown::
 
