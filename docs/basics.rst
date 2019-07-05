@@ -302,4 +302,17 @@ Output:
 Images: Reference
 =================
 
-TODO
+**Inline image syntax are coded like this:**
+
+![Alt text](/path/to/img.jpg)
+
+![Alt text](/path/to/img.jpg "Optional title")
+
+
+**Reference-style image syntax looks like this:**
+
+![Alt text][id]
+
+Where _id_ is the name of a defined image reference. Image references are defined using syntax identical to link references:
+
+[id]: url/to/image  "Optional Title"
